@@ -88,13 +88,13 @@ Execute the program
  
         
       </table>
-    <p><center>1. 19AI401 - Fundamentals of Web Technology</center></p>
-    <p><center>2. 19AI301 - Python Programming</center></p>
-    <p><center>3. 19MA220 - Mathematics for Artificial Intelligence</center></p>
-    <p><center>4. 19MA221 - Linear Algebra Laboratory</center></p>
-    <p><center>5. 19AI303 - Engineering Mechanics and Product Development</center></p>
-    <p><center>6. 19AI302 - Engineering Design and modeling</center></p>
-    <p><center>7. ECA051-AD - MENTORING-AD1</center></p>
+    <br><center>1. 19AI401 - Fundamentals of Web Technology</center></br>
+    <br><center>2. 19AI301 - Python Programming</center></br>
+    <br><center>3. 19MA220 - Mathematics for Artificial Intelligence</center></br>
+    <br><center>4. 19MA221 - Linear Algebra Laboratory</center></br>
+    <br><center>5. 19AI303 - Engineering Mechanics and Product Development</center></br>
+    <br><center>6. 19AI302 - Engineering Design and modeling</center></br>
+    <br><center>7. ECA051-AD - MENTORING-AD1</center></br>
       
      
    </body>
