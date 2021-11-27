@@ -32,9 +32,9 @@ Execute the program
          </tr>
 	<tr>
 		<th colspan="2">Reference No:</th>
-        	<th colspan="2">21004552</th>
+        	<th colspan="2">21002938</th>
 		<th colspan="2">Name:</th>
-		<th colspan="2">S.ABHISHEK</th>
+		<th colspan="2">P.SYAM TEJ</th>
 	</tr>
          <tr>
             <th>DAYS</th>
@@ -74,12 +74,12 @@ Execute the program
              <td>Thursday</td>
              <td colspan="2"<center>Engineering Mechanics and Product Development/19AI303/Sellakumar S</center></td>
              <td colspan="2"><center>Python Programming/19AI301/Akila Mohan</center></td>
-             <td><center>MENTORING-AD1/ECA051-AD/Karthik S</center></td>
+             <td><center>MENTORING-AM1/ECA051-AM1/Pramila G</center></td>
              <td colspan="2"><center>Engineering Design and modeling/19AI302/Sellakumar S</center></td></center>
 </tr>
 <tr>
              <td>Friday</td>
-             <td colspan="2"><center>FREE HOURS</center></td>
+             <td colspan="2"><center>System of Numerical Logical Terminologies/19EY703/ManojKumar S</center></td>
              <td colspan="2"><center>Python Programming/19AI301/Akila Mohan</center></td>
              <td><center>LUNCH BREAK</center></td>
              <td colspan="2"><center>Fundamentals of Web Technology/19AI401/Karthi Govindharaju</center></td>
@@ -94,11 +94,12 @@ Execute the program
     <br><center>4. 19MA221 - Linear Algebra Laboratory</center></br>
     <br><center>5. 19AI303 - Engineering Mechanics and Product Development</center></br>
     <br><center>6. 19AI302 - Engineering Design and modeling</center></br>
-    <br><center>7. ECA051-AD - MENTORING-AD1</center></br>
+    <br><center>7. ECA051-AM1 - MENTORING-AM1</center></br>
+    <br><center>8. 19EY703 - System of Numerical Logical Terminologies</center></br>	
       
      
    </body>
 </html>
 ~~~
 # OUPUT
-![GitHub Logo](ABHISHEK_TT.png)
+![GitHub Logo](SYAM_TT.png)
